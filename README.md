@@ -2,7 +2,7 @@
 
 Explore thousands of recipes from around the world! This app integrates **TheMealDB API** to provide detailed cooking instructions, ingredient lists, and video tutorials.
 
-🌐 **Live Demo:** [https://itsfoodrecipe.netlify.app](https://itsfoodrecipe.netlify.app)
+🌐 **Live Demo:** [https://itsfoodrecipe.netlify.app](https://)
 
 ---
 
